@@ -1,1 +1,1 @@
-ALLOWED = false
+ALLOWED = true
